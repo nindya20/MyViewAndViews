@@ -180,6 +180,7 @@
                 android:layout_centerVertical="true"
                 android:layout_marginRight="@dimen/activity_horizontal_margin"
                 android:src="@drawable/photo_2" />
+            
 
             <TextView
                 style="@style/TextContent"
